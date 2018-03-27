@@ -2,7 +2,7 @@ import os
 import argparse
 from solver import Solver
 from data_loader import get_loader
-#choosing to using cudnn
+#choosing to use cudnn
 from torch.backends import cudnn 
 
 
